@@ -4,3 +4,8 @@ express
 nodemon 
 cookie parser
 cors
+mongoose-aggregate-paginate-v2
+[bcrypt
+jsonwebtoken
+pre //hook in mongoose middlewares
+]
